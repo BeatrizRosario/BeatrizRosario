@@ -1,7 +1,10 @@
 ### Oi, eu sou a Beatriz👋😃
 
-- 🤔 Estudando:Javascript,Html,Css,Java
-- ⚡ Curiosidade:Amo esportes e musica
+
+- 🤔 Estudando: Javascript,Html,Css,Java
+- ⚡ Curiosidade: Amo esportes e musica
+
+
 
 <div align="center">
   <a href="https://github.com/BeatrizRosario">
